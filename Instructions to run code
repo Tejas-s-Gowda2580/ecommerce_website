@@ -1,0 +1,10 @@
+Basics information about the project:-
+  1.ecommerce_website(folder_name)
+  2.ecommerce(project name)
+  3.products(app name)
+
+Follow these instructions to Run the code:-
+  step1:-With the git repo(HTTP) link clone it using the git bash.
+  step2:-open the project folder in the vscode,make sure you have already installed django.
+  step3:-change directory to ecommerce project in terminal.
+  step4:-after changing directory use command 'python manage.py runserver' to run the project
